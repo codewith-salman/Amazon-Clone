@@ -4,7 +4,7 @@
 <div align="center">
   <h1>🛒 Amazon Clone</h1>
   <p>A front-end Amazon landing page clone with modern UI design using HTML, CSS, and JavaScript.</p>
-  <img src="Amazon%20Clone/images/screenshot.PNG" alt="Amazon Clone Screenshot" width="700"/>
+  <img src="Amazon%20Clone/images/screenshot.PNG" alt="Amazon Clone Screenshot" width="100%"/>
 </div>
 
 ---
