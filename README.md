@@ -17,7 +17,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Amazon%20Clone/images/screenshot.PNG" alt="Amazon Clone Logo" width="120"/>
+<img src="Amazon%20Clone/images/favicon.ico.png" alt="Amazon Clone Logo" width="120"/>
 
 <br />
 <br />
