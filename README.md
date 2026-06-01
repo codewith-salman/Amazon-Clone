@@ -16,7 +16,6 @@
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
-<br />
 
 <h1 align="center">🛒 Amazon Clone</h1>
 
@@ -61,8 +60,6 @@ Ideal for:
 - Portfolio showcasing  
 - HTML & CSS skill improvement  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -73,8 +70,6 @@ Ideal for:
 - Hover and focus effects  
 - Easy-to-read and organized code  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -83,8 +78,6 @@ This project is built using:
 
 - **HTML5**  
 - **CSS3**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
