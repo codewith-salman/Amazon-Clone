@@ -61,7 +61,7 @@ Ideal for:
 - UI cloning and recreation projects  
 - E-commerce interface inspiration  
 - Portfolio showcase projects  
-- HTML & CSS skill development  
+- HTML & CSS language development 
 
 ---
 
